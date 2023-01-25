@@ -1,0 +1,22 @@
+{   "namespace":"tank_simulations",
+    "node_name":"tank_level_simation_01",
+    "points":[
+        {
+            "level":0
+        },
+        {
+            "valve_position":0
+        },{
+                       
+            "pid_ubais":0
+        },{
+
+            "pid_Kc":50
+        },{
+
+            "pid_setpoint":10
+        }
+        
+    ]
+
+}
